@@ -8,3 +8,6 @@
 
 ensure wii u switch is on, 
 
+## Configure Zadig
+
+https://www.maketecheasier.com/use-gamecube-controller-with-dolphin/

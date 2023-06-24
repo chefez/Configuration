@@ -11,3 +11,7 @@ ensure wii u switch is on,
 ## Configure Zadig
 
 https://www.maketecheasier.com/use-gamecube-controller-with-dolphin/
+
+## Install Games
+
+https://vimm.net/vault/7818
